@@ -1,0 +1,25 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+  
+}
+
+h1{
+    color: #000080;
+}
+
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+h4 {
+    color: #000080;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
